@@ -4,8 +4,9 @@ Intro-to-Java-Programming-9E
 My solutions to book problems, descriptions of concepts, simple projects, and all of the bonus chapters
 
 
-**Introduction to Java Programming 9th Edition**
-**Y. Daniel Liang**
+####**Introduction to Java Programming 9th Edition**
+
+####**Y. Daniel Liang**
 
 
 I've decided to revisit this textbook and share my solutions to various exercises, some projects inspired by the book, and in-depth explanations of difficult concepts. All work is my own unless marked or provided by Liang in the book. I will include some of my original implementations of solutions (from when I was less experienced) as well as (what I believe to be) optimized code. While Liang does indeed provide answers to many problems, I have not referenced or included any of his answers. 
@@ -14,7 +15,7 @@ This project should be treated as a continual work in progress. I hope this will
 
 The 10th Edition is now available, and I'm sure that many of the chapters, problems, and, especially, concepts, will be almost identical.
 
-**Here are some online resources that I like:**
+###**Here are some online resources that I like:**
 
 - [Book Website](http://bit.ly/1x8ldY3)
 - [New Book](http://amzn.to/1pFMWzv)
@@ -28,10 +29,11 @@ The 10th Edition is now available, and I'm sure that many of the chapters, probl
 
 
 
-**Other Suggested Repos:**
+###**Other Suggested Repos:**
+
 Building . . .
 
-**Table of Contents:**
+###**Table of Contents:**
 
 - Chapter 1 Introduction to Computers, Programs, and Java
 - Chapter 2 Elementary Programming
@@ -68,7 +70,7 @@ Building . . .
 - Chapter 33 Networking
 - Chapter 34 Java Database Programming
  
-**Bonus Chapters 35–50:**
+###**Bonus Chapters 35–50:**
 
 - Chapter 35 Internationalization
 - Chapter 36 JavaBeans
@@ -87,7 +89,7 @@ Building . . .
 - Chapter 49 Java 2D
 - Chapter 50 Testing Using JUnit
 
-**Appendix:**
+###**Appendix:**
 
 - Appendix A Java Keywords
 - Appendix B The ASCII Character Set
