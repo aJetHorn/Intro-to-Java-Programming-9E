@@ -2,7 +2,7 @@ You may be wondering why I'm putting this much effort into reviewing a textbook 
 
 That is a good question.
 
-Do I think I am more knowledgeable or more talented than the author? Speaking stricly about Java programming, the answer is no. However, I do believe I can be a more effective teacher. I am approaching this book as a self-proclaimed intermediate to accomplish several goals:
+#####Do I think I am more knowledgeable or more talented than the author? Speaking stricly about Java programming, the answer is no. However, I do believe I can be a more effective teacher. I am approaching this book as a self-proclaimed intermediate to accomplish several goals:
 
 1. Gain additional experience with Java
 2. Gain experience with Git
@@ -21,7 +21,7 @@ As time goes on, you will find that compiling and executing your programs from t
 
 Before you even open the book, you'll want to have Java installed on your computer and your IDE ready to go. 
 
-Chapter 1 is an introductory chapter, and most college intro courses will skip it completely. Read through. Here's all you need to worry about until later in your programming journey:
+##Chapter 1 is an introductory chapter, and most college intro courses will skip it completely. Read through. Here's all you need to worry about until later in your programming journey:
 
 1. Bits, bytes, storage, and memory optimization used to be important to programmers. The situation isn't nearly as life-or-death as it once was, though we strive for efficiency and to maximize readability.
 
