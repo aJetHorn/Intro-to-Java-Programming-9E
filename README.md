@@ -8,9 +8,9 @@ My solutions to book problems, descriptions of concepts, simple projects, and al
 ####**Y. Daniel Liang**
 
 
-I've decided to revisit this textbook and share my solutions to various exercises, some projects inspired by the book, and in-depth explanations of difficult concepts. All work is my own unless marked or provided by Liang in the book. I will include some of my original implementations of solutions (from when I was less experienced) as well as (what I believe to be) optimized code. While Liang does indeed provide answers to many problems, I have not referenced or included any of his answers. 
+I've decided to revisit this textbook and share my solutions to various exercises, some projects inspired by the book, and in-depth explanations of difficult concepts. All work is my own unless marked or provided by Liang in the book. While Liang does indeed provide answers to even numbered problems, I have not referenced or included any of his answers. My depth of coverage will be sporadic.
 
-This project should be treated as a continual work in progress. I hope this will help you to better understand Java, regardless of your current knowledge or interest level. Programming is one of my greatest joys and, if it isn't already one of yours, perhaps this will bring you one step closer.
+This project should be treated as a continual work in progress. I hope this will help you to better understand Java concepts, regardless of your current knowledge or interest level. Programming is one of my greatest joys and, if it isn't already one of yours, perhaps this will bring you one step closer.
 
 The 10th Edition is now available, and I'm sure that many of the chapters, problems, and, especially, concepts, will be almost identical.
 

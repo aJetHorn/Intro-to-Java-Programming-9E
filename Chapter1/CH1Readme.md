@@ -15,7 +15,7 @@ If you don't own the book- You should be able to follow along to a degree if thi
 
 There are a few things I don't like about this book. None are incredibly obvious to the absolute beginner. One of the things that I like the least is that the author wants you to use the command line. I'm not sure why a beginner would start with that rather than an Integrated Development Environment.
 
-I suggested IntelliJ in the main readme, though Eclipse is also very popular. They are both free and are both powerful. You can program in the terminal environment using vim, emacs, or nano, but that isn't a great way to start learning. 
+I suggested IntelliJ in the main readme, though Eclipse is also very popular and has less of a learning curve. They are both free and are both powerful. You can program in the terminal environment using vim, emacs, or nano, but that isn't a great way to start learning. I will primarily use IntelliJ though may switch to other editors on occasion.
 
 As time goes on, you will find that compiling and executing your programs from the terminal has a distinct set of benefits. Enough of that, let me give a quick summary of Chapter 1.
 
@@ -43,9 +43,23 @@ public class Chapter1 {
 	public static void main(String[] args) {
 		System.out.println("Hello, World!");
 		System.out.println("This is my first Java Program");
+		//A comment isn't interpreted by the compiler. It is for human eyes only and begins with two slashes
    }  
 }
 ```
+Java has the unique distinction of having one of the most cumbersome structures for simple programs. Man, does this confuse people. Look through and try to determine what the program is doing. You'll be able to run it soon.
+
+You save your program as a .java file. When it is compiled, it becomes a .class file, which is then able to be executed. The textbook actually suggests using notepad to create and modify sourcecode. You can close your IDE and try that, but you'll quickly see that it's a bad idea and a misguided suggestion for beginners.
+
+If you've eliminated all syntax errors, you should be able to compile and run your code to see the two printed lines. Or perhaps one line, perhaps seven, depending on what exactly you typed in. No need to go crazy here, but exploring is probably the best way to become a great programmer. Along within practicing. So do it.
+
+Why is there a section on JOptionPane? Nobody really knows. You can fool around with it or just ignore it. You'll barely use it at all in this book and it doesn't make any sense to have in the first chapter.
+
+#Style is importation
+I included a link to Google Style. You should strive for that. Bad style sucks for everyone involved. I see it all the time when grading programs. Commenting is useful, but commenting every line is excessive- trust me. Your style will improve with time. I recommend taking a look at style guides at regular intervals depending on how frequently you're programming. I don't mean every five minutes- perhaps once a week or something along those lines until you internalize it.
+
+###Errors suck, Uncaught errors suck even more
+Errors can exist at run time as well as compile time. You'll learn what common errors to detect and other interesting uses for the features built around catching errors. Every good program handles errors. Your professors will run input against your programs in an attempt to break them. Don't be that kid that gets ten points off every assignment because of uncaught errors. The only reason they are covered in the intro chapter is because it's quite easy to encounter them, especially compiler errors.
 
 	//http://upload.wikimedia.org/wikipedia/en/d/d3/Tiobe_index.png
 
