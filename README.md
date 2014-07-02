@@ -5,7 +5,6 @@ My solutions to book problems, descriptions of concepts, simple projects, and al
 
 
 ####**Introduction to Java Programming 9th Edition**
-
 ####**Y. Daniel Liang**
 
 
@@ -26,7 +25,6 @@ The 10th Edition is now available, and I'm sure that many of the chapters, probl
 - [Interactive Practice](http://bit.ly/1jQLwbR)
 - [Interactive Tutorials](http://bit.ly/1jBaDRx)
 - [Reddit Community](http://bit.ly/1pUBJXz)
-
 
 
 ###**Other Suggested Repos:**
