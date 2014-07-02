@@ -3,8 +3,10 @@ Intro-to-Java-Programming-9E
 
 My solutions to book problems, descriptions of concepts, simple projects, and all of the bonus chapters
 
-Introduction to Java Programming 9th Edition
-Y. Daniel Liang
+```
+***Introduction to Java Programming 9th Edition***
+***Y. Daniel Liang***
+```
 
 I've decided to revisit this textbook and share my solutions to various exercises, some projects inspired by the book, and in-depth explanations of difficult concepts. All work is my own unless marked or provided by Liang in the book. I will include some of my original implementations of solutions (from when I was less experienced) as well as (what I believe to be) optimized code. While Liang does indeed provide answers to many problems, I have not referenced or included any of his answers. 
 
