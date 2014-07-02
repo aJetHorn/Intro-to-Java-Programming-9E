@@ -28,102 +28,71 @@ The 10th Edition is now available, and I'm sure that many of the chapters, probl
 
 
 
-**Other Suggested Repos:
+**Other Suggested Repos:**
 Building . . .
 
 **Table of Contents:**
 
--Chapter 1 Introduction to Computers, Programs, and Java
-
--Chapter 2 Elementary Programming
-
--Chapter 3 Selections
-
--Chapter 4 Loops
-
--Chapter 5 Methods
-
--Chapter 6 Single-Dimensional Arrays
-
--Chapter 7 Multidimensional Arrays
-
--Chapter 8 Objects and Classes
-
--Chapter 9 Strings
-
--Chapter 10 Thinking in Objects
-
--Chapter 11 Inheritance and Polymorphism
-
--Chapter 12 GUI Basics
-
--Chapter 13 Graphics
-
--Chapter 14 Exception Handling and Text I/O
-
--Chapter 15 Abstract Classes and Interfaces
-
--Chapter 16 Event-Driven Programming
-
--Chapter 17 GUI Components
-
--Chapter 18 Applets and Multimedia
-
--Chapter 19 Binary I/O
-
--Chapter 20 Recursion
-
--Chapter 21 Generics
-
--Chapter 22 Lists, Stacks, Queues, and Priority Queues
-
--Chapter 23 Sets and Maps
-
--Chapter 24 Developing Efficient Algorithms
-
--Chapter 25 Sorting
-
--Chapter 26 Implementing Lists, Stacks, Queues, and Priority Queues
-
--Chapter 27 Binary Search Trees
-
--Chapter 28 Hashing
-
--Chapter 29 AVL Trees
-
--Chapter 30 Graphs and Applications
-
--Chapter 31 Weighted Graphs and Applications
-
--Chapter 32 Multithreading and Parallel Programming
-
--Chapter 33 Networking
+- Chapter 1 Introduction to Computers, Programs, and Java
+- Chapter 2 Elementary Programming
+- Chapter 3 Selections
+- Chapter 4 Loops
+- Chapter 5 Methods
+- Chapter 6 Single-Dimensional Arrays
+- Chapter 7 Multidimensional Arrays
+- Chapter 8 Objects and Classes
+- Chapter 9 Strings
+- Chapter 10 Thinking in Objects
+- Chapter 11 Inheritance and Polymorphism
+- Chapter 12 GUI Basics
+- Chapter 13 Graphics
+- Chapter 14 Exception Handling and Text I/O
+- Chapter 15 Abstract Classes and Interfaces
+- Chapter 16 Event-Driven Programming
+- Chapter 17 GUI Components
+- Chapter 18 Applets and Multimedia
+- Chapter 19 Binary I/O
+- Chapter 20 Recursion
+- Chapter 21 Generics
+- Chapter 22 Lists, Stacks, Queues, and Priority Queues
+- Chapter 23 Sets and Maps
+- Chapter 24 Developing Efficient Algorithms
+- Chapter 25 Sorting
+- Chapter 26 Implementing Lists, Stacks, Queues, and Priority Queues
+- Chapter 27 Binary Search Trees
+- Chapter 28 Hashing
+- Chapter 29 AVL Trees
+- Chapter 30 Graphs and Applications
+- Chapter 31 Weighted Graphs and Applications
+- Chapter 32 Multithreading and Parallel Programming
+- Chapter 33 Networking
 - Chapter 34 Java Database Programming
  
-**Bonus Chapters 35–50 are available from the companion Website at www.pearsonhighered.com/liang**
--Chapter 35 Internationalization
--Chapter 36 JavaBeans
--Chapter 37 Containers, Layout Managers, and Borders
--Chapter 38 Menus, Toolbars, and Dialogs
--Chapter 39 MVC and Swing Models
--Chapter 40 JTable and JTree
--Chapter 41 Advanced Database Programming
--Chapter 42 Servlets
--Chapter 43 JavaServer Pages
--Chapter 44 JavaServer Faces
--Chapter 45 Web Services
--Chapter 46 Remote Method Invocation
--Chapter 47 2-4 Trees and B-Trees
--Chapter 48 Red-Black Trees
--Chapter 49 Java 2D
--Chapter 50 Testing Using JUnit
+**Bonus Chapters 35–50:**
 
-Appendixes
-Appendix A Java Keywords
-Appendix B The ASCII Character Set
-Appendix C Operator Precedence Chart
-Appendix D Java Modifiers
-Appendix E Special Floating-Point Values
-Appendix F Number Systems
-Appendix G Bitwise Operations
-- See more at: http://www.pearsonhighered.com/educator/product/Introduction-to-Java-Programming-Comprehensive-Version/9780132936521.page#sthash.Obe76YRX.dpuf
+- Chapter 35 Internationalization
+- Chapter 36 JavaBeans
+- Chapter 37 Containers, Layout Managers, and Borders
+- Chapter 38 Menus, Toolbars, and Dialogs
+- Chapter 39 MVC and Swing Models
+- Chapter 40 JTable and JTree
+- Chapter 41 Advanced Database Programming
+- Chapter 42 Servlets
+- Chapter 43 JavaServer Pages
+- Chapter 44 JavaServer Faces
+- Chapter 45 Web Services
+- Chapter 46 Remote Method Invocation
+- Chapter 47 2-4 Trees and B-Trees
+- Chapter 48 Red-Black Trees
+- Chapter 49 Java 2D
+- Chapter 50 Testing Using JUnit
+
+**Appendix:**
+
+- Appendix A Java Keywords
+- Appendix B The ASCII Character Set
+- Appendix C Operator Precedence Chart
+- Appendix D Java Modifiers
+- Appendix E Special Floating-Point Values
+- Appendix F Number Systems
+- Appendix G Bitwise Operations
