@@ -14,9 +14,8 @@ This project should be treated as a continual work in progress. I hope this will
 
 The 10th Edition is now available, and I'm sure that many of the chapters, problems, and, especially, concepts, will be almost identical.
 
-Here are some online resources that I like:
+**Here are some online resources that I like:**
 
-```
 -[Book Website](http://bit.ly/1x8ldY3)
 -[New Book](http://amzn.to/1pFMWzv)
 -[API Docs](http://bit.ly/1dhrzxG)
@@ -26,7 +25,7 @@ Here are some online resources that I like:
 -[Interactive Practice](http://bit.ly/1jQLwbR)
 -[Interactive Tutorials](http://bit.ly/1jBaDRx)
 -[Reddit Community](http://bit.ly/1pUBJXz)
-```
+
 
 ```
 **Other Suggested Repos:**
@@ -35,38 +34,71 @@ Here are some online resources that I like:
 **Table of Contents:**
 
 -Chapter 1 Introduction to Computers, Programs, and Java
+
 -Chapter 2 Elementary Programming
+
 -Chapter 3 Selections
+
 -Chapter 4 Loops
+
 -Chapter 5 Methods
+
 -Chapter 6 Single-Dimensional Arrays
+
 -Chapter 7 Multidimensional Arrays
+
 -Chapter 8 Objects and Classes
+
 -Chapter 9 Strings
+
 -Chapter 10 Thinking in Objects
+
 -Chapter 11 Inheritance and Polymorphism
+
 -Chapter 12 GUI Basics
+
 -Chapter 13 Graphics
+
 -Chapter 14 Exception Handling and Text I/O
+
 -Chapter 15 Abstract Classes and Interfaces
+
 -Chapter 16 Event-Driven Programming
+
 -Chapter 17 GUI Components
+
 -Chapter 18 Applets and Multimedia
+
 -Chapter 19 Binary I/O
+
 -Chapter 20 Recursion
+
 -Chapter 21 Generics
+
 -Chapter 22 Lists, Stacks, Queues, and Priority Queues
+
 -Chapter 23 Sets and Maps
+
 -Chapter 24 Developing Efficient Algorithms
+
 -Chapter 25 Sorting
+
 -Chapter 26 Implementing Lists, Stacks, Queues, and Priority Queues
+
 -Chapter 27 Binary Search Trees
+
 -Chapter 28 Hashing
+
 -Chapter 29 AVL Trees
+
 -Chapter 30 Graphs and Applications
+
 -Chapter 31 Weighted Graphs and Applications
+
 -Chapter 32 Multithreading and Parallel Programming
+
 -Chapter 33 Networking
+
 -Chapter 34 Java Database Programming
  
 **Bonus Chapters 35–50 are available from the companion Website at www.pearsonhighered.com/liang**
