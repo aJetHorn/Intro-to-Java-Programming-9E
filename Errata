@@ -1,0 +1,119 @@
+Errata
+
+Chapter 1
+Page 23, Figure 1.18, the title in the screen shot should be Message, not "Display Message".
+
+Chapter 2
+Page 42, line 4 and 5, change int to double.
+
+Chapter 3
+Page 97, click here to see a new BMI table. 
+
+Page 100, line 10, insert the symbol " at the end of the line.
+
+Page 104, three lines before check point 3.18, change "Java also provides conditional" to "Java also provides unconditional".
+
+Page 106, in the output box for the first sample run for Listing 3.8, change 2012 to 2008.
+
+Page 131, line 3, change Package 1 to Package 2. 
+
+Chapter 4
+Page 136, in Listing 4.1, lines 5-6, change % to *.
+
+Page 167, in Exercise 4.5, delete "and that 1 pound is .45 kilograms."
+
+Page 168, in Exercise 4.6, delete "and that 1 kilometer is .621 miles."
+
+Chapter 5
+Page 182, 10 line above Figure 5.3, change "and then" to "and then m2 calls".
+
+Page 186, line -2, remove the question mark (?).
+
+Chapter 6
+Page 229, in line 11, missing a semicolon after myList[i] = myList[j].
+
+Page 259, in the sample run box for Exercise 6.21, change 7 to 8.
+
+Chapter 7
+Page 291, line 3, change 3-by-4 to 3-by-3.
+
+Page 291, in the first line after the method header in Exercise 7.29, change "enter two lists" to "enter two arrays."
+
+Chapter 9
+Page 360, in line 14 in Listing 9.5, change it to "Split items from a string".
+
+Chapter 10
+Page 382, in Figure 10.6, swap the last two numerals 1 and 1.. 3 in the diagram.
+
+Page 394, in Figure 10.14, longVlaue should be longValue.
+
+Chapter 11
+Page 422, the first line in the output box for Listing 11.5, change "Color is white" to ""Color is red."
+
+Chapter 12
+Page 473, line 1, change java.swing to javax.swing.
+
+Chapter 13
+Page 504, Insert the following paragraph before Section 13.10.
+
+"The current hour, minute, and second is obtained by using the GregorianCalendar class (lines 102-110). The GregorianCalendar class in the Java API enables you to create a Calendar instance for the current time using its no-arg constructor. You can then use its methods get(Calendar.HOUR), get(Calendar.MINUTE), and get(Calendar.SECOND) to return the hour, minute, and second from a Calendar object. The classes Calendar and GregorianCalendar class will be further discussed in Section 15.4."
+
+Page 513, line -2, change hexagon to octagon.
+
+Chapter 14
+Page 539, line 13 in Listing 14.12, change CircleWithException to CircleWithCustomException.
+
+Page 540, change 0 to 1 in the output box for Listing 14.12.
+
+Page 544, in Listing 14.13, line 2, change IoException to Exception.
+
+Chapter 15
+Page 566, line -2, Change the sentence to "Key Point for Section 15.7 to "If the doubleValue() method were not defined in the Number class, you will not ..."
+
+Page 577, Replace Check Point Question 15.21 with a new one here.
+
+Page 577, Change the Key Point for Section 15.7 to "The Cloneable interface specifies that an object can be cloned."
+
+Chapter 16
+Page 603, Table 16.1, "select a new item ..." is listed twice. delete the first one.
+
+Chapter 18
+Page 704, in Figure 18.28, change number of slots in the text field from 7/9/12 to 6/8/11.
+
+Page 706, Change "Redraw Rectangles" to  "Redraw Triangles" in Figure 18.32c.
+
+Chapter 19
+Page 715, code listing line 23 in Listing 19.1, change "Close the output stream" to "Close the input stream."
+
+Page 726, line 10 in Listing 19.6, change the comment to "Read a string, double value, and object from the file".
+
+Chapter 21
+Page 777, the comment line in line 41, change list[i+1...list.length-2] to list[i...list.length-1].
+
+Chapter 22
+Page 827, Figure 22.20, change "experssion" to "expression".
+
+Chapter 23
+Page 831, two lines before Listing 23.1, change an iterator to a for-each loop.
+
+Chapter 25
+Page 922, line 7, change descending to ascending.
+
+Chapter 26
+Page 939, In Figure 26.8, change "last = head" to "tail = head".
+
+Chapter 27
+Page 995, Programming Exercise 27.22, change the number of objects from 5 to 6 in the Sample Output.
+
+Page 995, Programming Exercise 27.23, change the number of objects from 5 to 6 in the Sample Output.
+
+Chapter 28
+Page 1004, in Figure 28.6, change key:27 to key:28 and change key:23 to key:21.
+
+Chapter 32
+Page 1038, in line 2 in the first paragraph in Section 32.6, change "the most" to "most".
+
+Chapter 34
+Page 1235, first line in the second paragraph in Section 34.5, change preparedStatement to prepareStatement.
+
+Page 1236, three lines before Listing 34.3, change preparedStatement to prepareStatement.
