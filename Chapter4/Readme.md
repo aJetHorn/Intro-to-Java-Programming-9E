@@ -2,7 +2,7 @@ You might have noticed that some of the programs in the last chapter got a bit l
 
  Learning how loops work will open up the world of programming to you by simplifying redundant operations. You can harness all of the information from chapters 2 to 4 to write decently powerful programs. The code wouldn't be pretty, and would still be packed with redundance. What I'm trying to say is that loops are extremely important, and, unlike boolean expressions, are a bit more confusing. Spend a lot of time reviewing this chapter.
 
- ##While
+##While
 
  ```
  int count = 0;
@@ -76,9 +76,13 @@ for (int i = 0; i < 10; i++){
 	//Body
 }
 ```
-It is equivalent to this while loop:
+It is (functionally) equivalent to this while loop:
 ```
 int i = 0;
+while (i < 10){
+	//body
+	i++;
+}
 
 ```
 You will notice that I most often use the letter 'i' in my loops. As I nest my loops, which is exactly like it sounds, I will descend down the alphabet, going to 'j', 'k', 'l', 'm', and so on. I don' think I've ever gotten past 'm' in a practical example.
