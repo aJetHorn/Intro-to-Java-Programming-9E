@@ -130,5 +130,39 @@ public static int binarySearch(int[] list, int key){
 }
 ```
 
-When possible, you should implement binary sort. I firmly believe that it's important to approach problems in a manner that you are comfortable with. As you get more experienced, implementing the algorithm will become second nature.
+When possible, you should implement binary sort. I firmly believe that it's important to approach problems in a manner that you are comfortable with. As you get more experienced, implementing the algorithm will become second nature. Moreover, searching and sorting algorithms also exist as built-in methods that you can call. When you're tasking with implementing one, though, calling the built-in method typically won't fly.
 
+####Selection Sort
+```
+public static void selectionSort(double[] list){
+	for (int i = 0; i < list.length - 1; i++){
+		double currentMin = list[i];
+		int currentMinIndex = i;
+			
+		for (int j = i + 1; j < list.length; j++){
+			if (currentMin > list[j]){
+				currentMin = list[j];
+				currentMinIndex = j;
+			}
+		}
+			
+		if (currentMinIndex != i){
+			list[currentMinIndex] = list[i];
+			list[i] = currentMin;
+		}
+	}
+}
+```
+
+####Insertion Sort
+```
+public static void insertionSort(double[] list){
+	for (int i = 1; i < list.length; i++){
+		double currentElement = list[i];
+		int k;
+		for (k = i - 1; k >= 0 && list[k] > currentElement; k--){
+			list[k + 1] = list[k];
+		}
+	}
+}
+```
