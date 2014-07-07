@@ -18,6 +18,7 @@ public class Exercise6_15 {
 			}
 		}
 		
+		tempList = tempList.substring(1); //cuts first semicolon
 		String[] numbers = tempList.split(";");
 		int[] intArray = new int[numbers.length];
 		for (int i = 0; i < intArray.length; i++) {
