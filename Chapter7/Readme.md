@@ -2,7 +2,7 @@
 
 Arrays get deeper- Two dimensions, three dimensions, x dimensions. It can get crazy. Luckily, with a solid understanding of one dimensional arrays, nothing here is too difficult. It's worth mentioning that you won't be able to get out of an intro course without being assigned a program that deals with 2d arrays. Emulating various games seems to be a popular choice.
 
-This is a 2d array `int[][] matrix = new int[5][5];'. Picture it as a 5x5 grid- that's, technically, what it is
+This is a 2d array `int[][] matrix = new int[5][5];`. Picture it as a 5x5 grid- that's, technically, what it is
 
 ##Visualization
 1d arrays aren't complex enough to warrant visualization. How do you picture a 1d array in your mind? It's a line. There's nothing to picture. A 2d is a grid, x and y or row and column are commonly used. For beginners, working with a 2d array can get confusing just due to the added complexity. I recommend visualizing the graph, and visualizing it consistently. Though how you imagine something doesn't have any effect on the function of the program, it will greatly benefit your understanding of the concepts, especially as they are still new to you.
