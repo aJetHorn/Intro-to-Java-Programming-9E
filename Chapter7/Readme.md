@@ -25,9 +25,9 @@ Anything greater than a 2d array is considered multidimensional. A 3d array can 
 
 ###Literal Initialization
 ```
-int[][] grid = {{1,2,3}
-{4,5,6}
+int[][] grid = {{1,2,3},
+{4,5,6},
 {7,8,9}}
 ```
 
-Believe it or not, that's about it. Let's try some practice problems.
+Believe it or not, that's about it. Multidimensional arrays have a wide variety of applications and you'll be expected to know them well. Let's try some practice problems.
